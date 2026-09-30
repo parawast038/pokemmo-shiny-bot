@@ -1,0 +1,26 @@
+# .gitignore
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+logs/
+*.log
+.DS_Store
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# Datos de usuario
+assets/templates/*.png
+assets/samples/*.png
+
+data/*.json
+
+# Permitir historial vacío
+!data/.gitkeep

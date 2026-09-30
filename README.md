@@ -8,7 +8,7 @@ Este proyecto está pensado para ayudar a los jugadores de PokéMMO a:
 
 - contar encuentros realizados
 - detectar cuándo aparece un Pokémon shiny
-- registrar un historial de encuenros
+- registrar un historial de encuentros
 - enviar notificaciones visuales o sonoras
 - apoyar rutas de grind o búsquedas de shiny
 
